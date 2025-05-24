@@ -5,7 +5,7 @@
 <p align="left">My name is Madhurya Pasan</p>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadhuryaPasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MadhuryaPasan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+<br>
 <h2 align="left">About me</h2>
 
 ###
@@ -21,6 +21,7 @@
 <p align="left">📚 I'm currently learning at SLIIT</p>
 
 ###
+<br>
 
 <h2 align="left">I code with</h2>
 
@@ -50,6 +51,7 @@
 
 ###
 
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhuryaPasan/MadhuryaPasan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhuryaPasan/MadhuryaPasan/output/pacman-contribution-graph.svg">
