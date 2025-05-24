@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning at SLIIT</p>
+<p align="left">📚 I'm currently studying at Sri Lanka Institute of Information Technology (SLIIT)</p>
 
 ###
 
