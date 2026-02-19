@@ -13,34 +13,6 @@ My primary focus is on the exciting fields of **Machine Learning (ML)**, **Artif
 
 I believe in a full-stack approach to data science, enabling me to not only develop robust models but also deploy them efficiently in production environments. I'm always eager to learn and contribute to innovative projects.
 
----
-
-## ⚙️ Core Technical Skills
-
-While my passion lies in data-centric technologies, I possess a versatile skill set that spans modern web and application development.
-
-### Data Science & ML/AI/DL Stack
-* **Python** (The core language for my ML/AI work)
-* **Java** (For scalable application development)
-* **C** (For foundational programming understanding)
-
-### Full-Stack & Web Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" title="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" title="Tailwind CSS" />
-</div>
----
 
 ## 📈 GitHub Activity & Contributions
 
